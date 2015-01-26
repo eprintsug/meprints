@@ -1,0 +1,134 @@
+a.meprints_link_more
+{
+	padding-left: 5px;
+	font-weight: bold;
+}
+
+div.ep_user_citation_picture
+{
+	display: inline;
+}
+
+div:hover.ep_column_item
+{
+	cursor:move;
+}
+
+.ep_name_homepage
+{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.ep_profile_column {
+	text-align: left;
+	float: left;
+	display: inline;
+	margin: 10px;
+	width: 335px;
+	min-height: 300px;
+}
+
+.ep_name_citation .person_name {
+	font-weight: bold;
+}
+
+.ep_user_profile_userdetails_section_heading {
+	font-weight: bold;
+}
+
+.meprints_embed_link {
+	float: right;
+	cursor: pointer;
+	font-size: 0.8em;
+	text-decoration: underline;
+}
+.meprints_widget_wrapper{
+	width:710px;
+	margin: auto;
+}
+
+.meprints_box 
+{
+        margin-bottom: 10px
+}
+.meprints_box_title 
+{
+        background-image: url(images/bar_solid_12px.png);
+	background-repeat: repeat-x;
+	background-color: #E8E8FF;
+        font-weight: normal;
+        border-left: 2px solid #e0e0ff;
+        padding: 2px 6px 2px 6px;
+        border: solid 1px #d8dbef;
+        font-weight: bold;
+        font-size: 115%;
+}
+.meprints_box_body 
+{
+        padding: 2px 6px 2px 6px;
+	background-image: url("images/bar_solid_24px.png");
+	background-repeat: repeat-x;
+	background-color: #E8E8FF;
+	border: 1px solid #CCCCCC;
+}
+
+.ep_core_widgets{
+	width:710px;
+	border:0;
+	margin:auto;
+}
+
+#left_core_widget, #right_core_widget{
+	width: 50%;
+	text-align: left;
+}
+
+div.meprints_profile_section {
+
+}
+
+div.meprints_profile_section h3 {
+
+}
+
+div.meprints_profile_section p {
+
+}
+
+div.ep_profile_column { margin: 0px }
+
+h3.meprints_profile_heading { margin: 5px 0px; }
+
+h3.meprints_profile_heading, div.meprints_profile_section > h3 { font-size: 16px; }
+
+h3.meprints_homepage_heading { font-size: 12px; margin: 5px 0px; }
+
+h2.meprints_details_name { margin-top: 0px; }
+
+div.meprints_left_column {
+	float: left;
+	width: 65%;
+}
+
+div.meprints_right_column {
+	float: right;
+	width: 35%;
+}
+
+div.meprints_clear_columns { clear: both }
+
+#ep_profile_Thumbnail {
+	width: 100%;
+	text-align:left;
+}
+
+div.meprints_bar {
+	width: 100%;
+	text-align: center;
+}
+
+div.meprints_box { 
+	margin-left:5px;
+	margin-right:5px;
+}

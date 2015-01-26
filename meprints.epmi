@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='utf-8'?>
+<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://template.ulcc.ac.uk/id/epm/meprints'>
+  <epmid>meprints</epmid>
+  <eprintid>325</eprintid>
+  <uri>http://bazaar.eprints.org/id/epm/meprints</uri>
+  <documents>
+    <document id='http://template.ulcc.ac.uk/id/document/1887'>
+      <docid>1887</docid>
+      <rev_number>1</rev_number>
+      <files>
+        <file id='http://template.ulcc.ac.uk/id/file/6656'>
+          <fileid>6656</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>citations/user/details.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>6349b8ca5ee9f0a222ea362dac93171a</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1980</filesize>
+          <mtime>2013-09-16 11:05:22</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6657'>
+          <fileid>6657</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>citations/user/profile.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>81d9b96d1ba2f38cd2a84b085620d8e8</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1635</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6658'>
+          <fileid>6658</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>epm/meprints/cfg/cfg.d/z_meprints.pl</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>904ad0e5427ce55ebca5d2a8991c7930</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>11259</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6659'>
+          <fileid>6659</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>epm/meprints/cgi/meprints/embed_js</filename>
+          <mime_type>application/x-perl</mime_type>
+          <hash>616230eea3db6ccd9b891b088ea688cf</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1128</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6660'>
+          <fileid>6660</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>epm/meprints/cgi/meprints/search</filename>
+          <mime_type>text/x-c++</mime_type>
+          <hash>ba29702d3f419f65868941d7ca6f93e4</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>551</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6661'>
+          <fileid>6661</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>epm/meprints/cgi/meprints/thumbnail</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>8c5260e46cf380ca9e0585946bdfe26e</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1094</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6662'>
+          <fileid>6662</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>epm/meprints/cgi/users/meprints/save</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>5881d0711cce6ea292e8f8d927d55297</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>387</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6663'>
+          <fileid>6663</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>lang/en/phrases/meprints.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>61284a62e66260c03d4b5f1ff9d08807</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>10967</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6664'>
+          <fileid>6664</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>c0754ee99bd02480cf02e83abe149423</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>4289</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6665'>
+          <fileid>6665</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Layout.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>c801df6c1b199fd8e93e19414b36b55a</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>7641</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6666'>
+          <fileid>6666</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Layout/Embed.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>16f0148f1b30afd85e0726918fdde8f4</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>7038</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6667'>
+          <fileid>6667</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Layout/TwoColumn.pm</filename>
+          <mime_type>text/x-c++</mime_type>
+          <hash>b6d695f11bac8fc4ec791578bde5ffaf</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>5484</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6668'>
+          <fileid>6668</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/MePrintsHandler.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>7e71b6bf3625592982c4f397c6e63f24</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>2070</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6669'>
+          <fileid>6669</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Render/Box.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>694362665d00be93f178edd926cabae2</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>3253</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6670'>
+          <fileid>6670</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Render/Simple.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>555ecb310c6e93b9260363dd4b8681a2</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>939</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6671'>
+          <fileid>6671</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Widget.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>3aa5fdf89374c8f4c847d6bb019f4b91</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1761</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6672'>
+          <fileid>6672</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Widget/AlignedThumbnail.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>8a29326424c6f2b9b51b925fb1fe4cff</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>816</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6673'>
+          <fileid>6673</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Widget/Details.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>963fbbf568e3389dadbfc689c63fe0fc</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>623</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6674'>
+          <fileid>6674</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Widget/EPrintsIssues.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>e72e56db0fbf890f4f8950b006a47bab</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1893</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6675'>
+          <fileid>6675</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Widget/IRStats/DownloadGraph.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>99b2be771ba56015faf4e7e647bd0147</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>908</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6676'>
+          <fileid>6676</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Widget/LatestEPrints.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>bff183e2ae0a7abc52d79697ccba4555</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1437</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6677'>
+          <fileid>6677</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Widget/LatestInbox.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>0468d6eb231431da4148ede7f3b5b8b6</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1498</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6678'>
+          <fileid>6678</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Widget/QuickLinks.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>0a96bfdb5447cd942d6b25a8f1e686f0</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1175</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6679'>
+          <fileid>6679</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Widget/QuickUpload.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>36c48753b1953cdc8ac35291785b0c30</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>2930</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6680'>
+          <fileid>6680</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Widget/Thumbnail.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>922fd928266623c275a323825aac3560</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>848</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6681'>
+          <fileid>6681</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/MePrints/Widget/TopTen.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>d31078a268616f9233f7b248fdc7ba64</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>3390</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6682'>
+          <fileid>6682</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/Admin/RegenMePrints.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>b9c20a41f148240f069a2bcde93f7448</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1070</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6683'>
+          <fileid>6683</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/EPMC/MePrints.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>e9c1aa6b4750eb05dd7392ab129ec262</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>2452</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6684'>
+          <fileid>6684</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/User/EditLink.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>ff8d8f6edb327618b88bb303896444a2</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1343</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6685'>
+          <fileid>6685</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/User/Homepage.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>410b747ac8ff5abb3e0f27a813acf047</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>6259</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6686'>
+          <fileid>6686</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/User/UploadPicture.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>30a42732b64fac428e3dacc64836447e</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>5782</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6687'>
+          <fileid>6687</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>static/images/epm/meprints.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>3c62392a5e02114634cf8ead3b85030c</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>130778</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6688'>
+          <fileid>6688</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>static/images/meprints/defaults/preview.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>b34d6eadbcdc3f412325fe89e6836f9d</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>5558</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6689'>
+          <fileid>6689</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>static/images/meprints/defaults/small.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>65de95f714b4061b03fd46f79fac698a</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1058</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/6690'>
+          <fileid>6690</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1887</objectid>
+          <filename>static/style/auto/meprints.css</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>bada303868113b81bf566b82e5d6cfc3</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>2082</filesize>
+          <mtime>2013-09-16 11:05:23</mtime>
+        </file>
+      </files>
+      <eprintid>325</eprintid>
+      <pos>1</pos>
+      <placement>1</placement>
+      <mime_type>text/plain</mime_type>
+      <format>text</format>
+      <language>en</language>
+      <security>public</security>
+      <main>static/style/auto/meprints.css</main>
+      <content>install</content>
+    </document>
+    <document id='http://template.ulcc.ac.uk/id/document/1888'>
+      <docid>1888</docid>
+      <rev_number>1</rev_number>
+      <files>
+        <file id='http://template.ulcc.ac.uk/id/file/6691'>
+          <fileid>6691</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1888</objectid>
+          <filename>static/images/epm/meprints.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>3c62392a5e02114634cf8ead3b85030c</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>130778</filesize>
+          <mtime>2013-09-16 11:05:24</mtime>
+        </file>
+      </files>
+      <eprintid>325</eprintid>
+      <pos>2</pos>
+      <placement>2</placement>
+      <mime_type>image/png</mime_type>
+      <format>image</format>
+      <language>en</language>
+      <security>public</security>
+      <main>static/images/epm/meprints.png</main>
+      <content>coverimage</content>
+    </document>
+  </documents>
+  <version>1.4.3</version>
+  <controller>EPMC::MePrints</controller>
+  <creators>
+    <item>
+      <name>
+        <family>Sebastien</family>
+        <given>Francois</given>
+      </name>
+      <id>sf2@ecs.soton.ac.uk</id>
+    </item>
+    <item>
+      <name>
+        <family>Patrick</family>
+        <given>McSweeney</given>
+      </name>
+      <id>pm5@ecs.soton.ac.uk</id>
+    </item>
+    <item>
+      <name>
+        <family>Marcus</family>
+        <given>Ramsden</given>
+      </name>
+      <id>mmr@ecs.soton.ac.uk</id>
+    </item>
+    <item>
+      <name>
+        <family>Services</family>
+        <given>EPrints</given>
+      </name>
+    </item>
+  </creators>
+  <datestamp>2013-09-16 11:05:22</datestamp>
+  <title>MePrints</title>
+  <description>Every repository user will have a page which promotes their work and identity within the repository and beyond. This improves user-to-repository relations and provides useful information for user-to-user interactions. </description>
+  <requirements>ImageMagick.</requirements>
+  <home_page>http://wiki.eprints.org/w/MePrintsOverview</home_page>
+  <icon>images/epm/meprints.png</icon>
+</epm>

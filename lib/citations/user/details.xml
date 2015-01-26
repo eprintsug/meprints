@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+
+<cite:citation xmlns="http://www.w3.org/1999/xhtml" xmlns:cite="http://eprints.org/ep3/citation" xmlns:epc="http://eprints.org/ep3/control">
+
+<div class="meprints_core meprints_homepage">
+
+<div class="meprints_left_column">
+
+<epc:choose>
+<epc:when test="real_profile_visibility = 'public'">
+	<a  href="{$config{base_url}}/profile/{userid}">
+	<h2 class="meprints_details_name">
+	<epc:choose>
+	  <epc:when test="name"><epc:print expr="name" /></epc:when>
+	  <epc:when test="email">Unnamed user with email <epc:print expr="email"/></epc:when>
+	  <epc:otherwise>Unnamed user with username <epc:print expr="username"/></epc:otherwise>
+	</epc:choose>
+	</h2>
+	</a>
+</epc:when>
+<epc:otherwise>
+	<h2 class="meprints_details_name">
+	<epc:choose>
+	  <epc:when test="name"><epc:print expr="name" /></epc:when>
+	  <epc:when test="email">Unnamed user with email <epc:print expr="email"/></epc:when>
+	  <epc:otherwise>Unnamed user with username <epc:print expr="username"/></epc:otherwise>
+	</epc:choose>
+	</h2>
+</epc:otherwise>
+</epc:choose>
+
+<epc:if test="jobtitle">
+	<h3 class="meprints_homepage_heading" style="margin-bottom:10px;"><print expr="jobtitle"/></h3>
+</epc:if>
+<epc:if test="dept">
+	<h3 class="meprints_homepage_heading"><print expr="dept"/></h3>
+</epc:if>
+<epc:if test="org">
+	<h3 class="meprints_homepage_heading"><print expr="org"/></h3>
+</epc:if>
+<epc:if test="length(expertise) gt 0">
+	<h3 class="meprints_homepage_heading"><print expr="expertise"/></h3>
+</epc:if>
+<epc:if test="biography">
+	<p class="meprints_homepage_heading"><print expr="biography"/></p>
+</epc:if>
+<epc:if test="qualifications">
+	<p class="meprints_homepage_heading"><print expr="qualifications"/></p>
+</epc:if>
+
+</div>
+
+<div class="meprints_right_column">
+
+	<div class="meprints_thumbnail">
+		<img border="0" src="{$config{rel_path}}/cgi/meprints/thumbnail?userid={userid}" alt="Profile Picture"/>
+	</div>
+
+</div>
+
+<div class="meprints_clear_columns"/>
+
+</div>
+
+</cite:citation>
