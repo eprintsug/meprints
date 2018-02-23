@@ -115,6 +115,11 @@ sub get_stats
 
 	my $sql = "SELECT DISTINCT referent_id, COUNT(referent_id) FROM access WHERE service_type_id='?abstract=yes' AND referent_id IN (".$ids_string.") GROUP BY referent_id ORDER BY COUNT(referent_id) DESC;";
 
+    #Use the IRstats data not the raw access data, this is more accurate and muchmuchmuchmuch more efficient
+	if(defined $session->get_repository->get_conf( "irstats2" )){
+        $sql = "SELECT DISTINCT eprintid, COUNT(eprintid) FROM irstats2_views WHERE eprintid IN (".$ids_string.") GROUP BY eprintid ORDER BY COUNT(eprintid) DESC;";
+    }
+
 	my $sth = $self->{session}->get_database->prepare( $sql );
 	$self->{session}->get_database->execute( $sth , $sql );
 
